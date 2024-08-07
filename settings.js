@@ -1,4 +1,4 @@
-global.prefa = ['','!','.',',','🐤','🗿']
+global.prefa = ['','!','.',',','🐤','🗿'#']
 
 global.owner = ['2349043544267']
 global.botname = 'ClaraBotz'
